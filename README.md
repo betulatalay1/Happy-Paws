@@ -2,7 +2,7 @@
 👥 Contributors
 
 Betül ATALAY   
-Ömer YANMAZ (GitHub : ynmzomer)
+Ömer YANMAZ (GitHub : @ynmzomer )
 
 Happy Paws is an advanced embedded system project designed to automate pet feeding routines, addressing the challenges of busy lifestyles and pet health concerns like obesity or anxiety.
 Developed as part of the ELE 417 - Embedded System Design Project at Hacettepe University.

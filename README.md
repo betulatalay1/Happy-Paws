@@ -15,15 +15,6 @@ https://youtu.be/s-Ppv_qkkEE?si=1woyrld5PjeTb-d2
 ![IMG-20251222-WA0004 (1)](https://github.com/user-attachments/assets/e2eec2fa-3b9e-4132-aa39-1e0e9ebbbf12)
 
 
----
-
-## 📚 References
-
-Sedra/Smith, Boylestad, Razavi, and other analog design sources.  
-See full report for citations.
-
----
-
 ⭐ If you find this project interesting, consider starring the repo!
 
 
